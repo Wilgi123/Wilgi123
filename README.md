@@ -1,7 +1,5 @@
 # Hi, I'm Wilgimol Thomas! 👋
 
-![Profile Picture](https://avatars.githubusercontent.com/u/your-profile-picture-id) <!-- Replace with your profile picture URL -->
-
 **Aspiring Software Developer | Web Development Enthusiast**
 
 ---
