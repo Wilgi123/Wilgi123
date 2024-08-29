@@ -6,7 +6,7 @@
 
 ## 🎓 Education
 - **Integrated MCA** at **Amal Jyothi College of Engineering, Kottayam**  
-  **CGPA:** 8.1 | **Expected Graduation:** May 2025
+  **CGPA:** 8.03 | **Expected Graduation:** May 2025
 - **Higher Secondary Education** at **Naduvil Higher Secondary School, Naduvil**  
   **Percentage:** 91.2% | 2018 - 2020
 - **Secondary Education** at **Holy Cross Public School, Kudiyanmala**  
