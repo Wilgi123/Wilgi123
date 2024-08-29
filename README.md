@@ -152,4 +152,3 @@
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilgimol%20Thomas-blue?logo=linkedin&style=for-the-badge)](http://www.linkedin.com/in/wilgimolthomas)
 [![GitHub](https://img.shields.io/badge/GitHub-Wilgi123-black?logo=github&style=for-the-badge)](https://github.com/Wilgi123)
-[![Gmail](https://img.shields.io/badge/Email-wilgimolthomas%40gmail.com-red?logo=gmail&style=for-the-badge)](mailto:wilgimolthomas@gmail.com)
