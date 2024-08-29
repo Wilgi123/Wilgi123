@@ -41,14 +41,14 @@
 
 ## 💻 Technical Skills
 
-```html
 <div style="background-color:#f3f3f3; padding:10px; border-radius:5px;">
-<b>Programming Languages:</b> C, C++, Java, Python, PHP, VB.NET<br>
-<b>Web Development:</b> HTML, CSS, JavaScript, jQuery, AJAX, Bootstrap<br>
-<b>Frameworks:</b> Django, Laravel<br>
-<b>Databases:</b> MySQL, SQLite, MongoDB<br>
-<b>Cloud Services:</b> AWS, Google Cloud
+**Programming Languages:** C, C++, Java, Python, PHP, VB.NET<br>
+**Web Development:** HTML, CSS, JavaScript, jQuery, AJAX, Bootstrap<br>
+**Frameworks:** Django, Laravel<br>
+**Databases:** MySQL, SQLite, MongoDB<br>
+**Cloud Services:** AWS, Google Cloud
 </div>
+
 ---
 
 ## 🚀 Projects
