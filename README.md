@@ -36,11 +36,12 @@
 - **Introduction to Cloud** | IBM Developer Skills Network (September 2021)
 
 ---
-## 📊 Contribution Graph
 
-![Your GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Wilgi123&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
+## 📊 Contribution Streak
 
-Contribute regularly to public repositories to fill up your contribution graph. This demonstrates your commitment and activity in the developer community.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Wilgi123&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+
 
 
 ---
