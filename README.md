@@ -1,6 +1,6 @@
 # Hi, I'm Wilgimol Thomas! 👋
 
-**Aspiring Software Developer | Web Development Enthusiast**
+**Web Developer | Crafting Secure, Data-Driven Web Solutions | Enthusiast in Cybersecurity, AI, and Advanced Analytics**
 
 ---
 
