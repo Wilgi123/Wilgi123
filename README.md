@@ -3,6 +3,13 @@
 **Web Developer | Crafting Secure, Data-Driven Web Solutions | Enthusiast in Cybersecurity, AI, and Advanced Analytics**
 
 ---
+## 📊 GitHub Stats
+
+![Wilgimol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wilgi123&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilgi123&layout=compact&theme=radical&hide_border=true)
+
+
+---
 
 ## 🎓 Education
 - **Integrated MCA** at **Amal Jyothi College of Engineering, Kottayam**  
@@ -141,13 +148,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Wilgimol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wilgi123&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilgi123&layout=compact&theme=radical&hide_border=true)
-
-
----
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilgimol%20Thomas-blue?logo=linkedin&style=for-the-badge)](http://www.linkedin.com/in/wilgimolthomas)
