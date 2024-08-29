@@ -1,11 +1,12 @@
 # Hi, I'm Wilgimol Thomas! 👋
 
+![Profile Picture](https://avatars.githubusercontent.com/u/your-profile-picture-id) <!-- Replace with your profile picture URL -->
+
 **Aspiring Software Developer | Web Development Enthusiast**
 
 ---
 
-🎓 **Education:**
-
+## 🎓 Education
 - **Integrated MCA** at **Amal Jyothi College of Engineering, Kottayam**  
   **CGPA:** 8.1 | **Expected Graduation:** May 2025
 - **Higher Secondary Education** at **Naduvil Higher Secondary School, Naduvil**  
@@ -15,8 +16,7 @@
 
 ---
 
-💼 **Internships and Trainings:**
-
+## 💼 Internships and Trainings
 - **Web Development Intern** at **Exposys Data Labs**  
   **Duration:** May 2023 - June 2023
 - **Front End Development** at **IBM SkillsBuild**  
@@ -28,8 +28,7 @@
 
 ---
 
-📜 **Certifications:**
-
+## 📜 Certifications
 - **Generative AI Certified Professional** | Oracle University (July 2024)
 - **Introduction to Career Skills in Software Development** | LinkedIn Learning (July 2024)
 - **Cognizant's Artificial Intelligence Job Simulation** | Forage (May 2024)
@@ -40,18 +39,19 @@
 
 ---
 
-💻 **Technical Skills:**
+## 💻 Technical Skills
 
-- **Programming Languages:** C, C++, Java, Python, PHP, VB.NET
-- **Web Development:** HTML, CSS, JavaScript, jQuery, AJAX, Bootstrap
-- **Frameworks:** Django, Laravel
-- **Databases:** MySQL, SQLite, MongoDB
-- **Cloud Services:** AWS, Google Cloud
-
+```html
+<div style="background-color:#f3f3f3; padding:10px; border-radius:5px;">
+<b>Programming Languages:</b> C, C++, Java, Python, PHP, VB.NET<br>
+<b>Web Development:</b> HTML, CSS, JavaScript, jQuery, AJAX, Bootstrap<br>
+<b>Frameworks:</b> Django, Laravel<br>
+<b>Databases:</b> MySQL, SQLite, MongoDB<br>
+<b>Cloud Services:</b> AWS, Google Cloud
+</div>
 ---
 
-🚀 **Projects:**
-
+## 🚀 Projects
 - **Courier Management System**  
   Developed a system using **MongoDB** and **PHP** for efficient package tracking, delivery scheduling, and status updates (April 2024 - May 2024).
 - **EFLORAURA - Flower Shop Management System**  
@@ -59,35 +59,33 @@
 
 ---
 
-🛠️ **Soft Skills:**
-
-- Communication
-- Leadership
-- Time Management
-- Teamwork
-- Problem-Solving
-- Adaptability
-
----
-
-🎯 **Areas of Interest:**
-
-- Web Development
-- Playing Badminton
-- Stitching
-- Video Editing
-- Singing
-- Dancing
-- Playing Carrom
+## 🛠️ Soft Skills
+- **Communication:** Effectively convey ideas and collaborate with team members.
+- **Leadership:** Lead projects and guide team members to achieve project goals.
+- **Time Management:** Prioritize tasks to meet deadlines and maintain productivity.
+- **Teamwork:** Work collaboratively in a team environment to achieve common objectives.
+- **Problem-Solving:** Identify problems, analyze potential solutions, and implement effective fixes.
+- **Adaptability:** Quickly adjust to new challenges and changing environments.
 
 ---
 
-📊 **GitHub Stats:**
-
-![Wilgimol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wilgi123&show_icons=true)
+## 🎯 Areas of Interest
+- **Web Development:** Building responsive, user-friendly websites and web applications.
+- **Playing Badminton:** Staying active and competitive through sports.
+- **Stitching:** Crafting and creating with needle and thread.
+- **Video Editing:** Editing and producing videos for creative projects.
+- **Singing:** Enjoying music and expressing creativity through singing.
+- **Dancing:** Staying energetic and creative with dance.
+- **Playing Carrom:** Engaging in strategic board games.
 
 ---
 
-🔗 **Connect with Me:**
+## 📊 GitHub Stats
+![Wilgimol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wilgi123&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilgi123&layout=compact&theme=radical)
 
-[LinkedIn](http://www.linkedin.com/in/wilgimolthomas) | [GitHub](https://github.com/Wilgi123)
+---
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilgimol%20Thomas-blue?logo=linkedin&style=for-the-badge)](http://www.linkedin.com/in/wilgimolthomas)
+[![GitHub](https://img.shields.io/badge/GitHub-Wilgi123-black?logo=github&style=for-the-badge)](https://github.com/Wilgi123)
