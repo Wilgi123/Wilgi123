@@ -42,6 +42,7 @@
 
 Contribute regularly to public repositories to fill up your contribution graph. This demonstrates your commitment and activity in the developer community.
 
+
 ---
 ## 💻 Technical Skills
 
