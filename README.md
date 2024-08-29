@@ -93,8 +93,24 @@
 ---
 
 ## 🚀 Projects
+
+- **AgroRent Hub**  
+  Currently working on **AgroRent Hub**, an online platform built with **Django** to facilitate the rental of agricultural products, equipment, workers, and services. Key features include:
+  - **Multi-role Support:** Farmers (Customers), Suppliers, Delivery Boys, and Admins.
+  - **Farmers:** Browse products, add items to the cart, and rent them for a specified period. 
+  - **Suppliers:** List items for rent and manage inventory and stock levels via dashboards.
+  - **Delivery Boys:** Handle delivery and return of rented items, covering repair costs if defects are found.
+  - **Admin:** Manages all users and transactions.
+  - **OTP-based Verification:** Ensures secure user registration and transactions.
+  - **Secure Payment Processing:** Facilitates payments for rentals.
+  - **Low Inventory Alerts:** Notifies suppliers about inventory levels.
+  - **RESTful APIs:** Ensures smooth frontend-backend communication.
+
+  The platform is designed to be user-friendly and secure, providing an efficient and scalable solution for agricultural rentals. (Ongoing)
+
 - **Courier Management System**  
   Developed a system using **MongoDB** and **PHP** for efficient package tracking, delivery scheduling, and status updates (April 2024 - May 2024).
+
 - **EFLORAURA - Flower Shop Management System**  
   Created a flower shop management system for inventory and order processing using **PHP** and **MySQL** (January 2023 - April 2023).
 
