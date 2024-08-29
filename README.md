@@ -22,14 +22,19 @@
 ---
 
 ## 💼 Internships and Trainings
+
 - **Web Development Intern** at **Exposys Data Labs**  
   **Duration:** May 2023 - June 2023
+
 - **Front End Development** at **IBM SkillsBuild**  
   **Duration:** January 2023
+
 - **Internship & Job Preparation** at **Internshala Training**  
   **Duration:** February 2023 - March 2023
+
 - **Web Development** at **Internshala Training**  
   **Duration:** December 2021 - January 2022
+
 
 ---
 
