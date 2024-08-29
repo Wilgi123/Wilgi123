@@ -87,13 +87,14 @@
 ---
 
 ## 🎯 Areas of Interest
-- **Web Development:** Building responsive, user-friendly websites and web applications.
-- **Playing Badminton:** Staying active and competitive through sports.
-- **Stitching:** Crafting and creating with needle and thread.
-- **Video Editing:** Editing and producing videos for creative projects.
-- **Singing:** Enjoying music and expressing creativity through singing.
-- **Dancing:** Staying energetic and creative with dance.
-- **Playing Carrom:** Engaging in strategic board games.
+
+![Web Development](https://img.shields.io/badge/Web%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Video Editing](https://img.shields.io/badge/Video%20Editing-007ACC?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Badminton](https://img.shields.io/badge/Badminton-009688?style=for-the-badge&logo=sports&logoColor=white)
+![Stitching](https://img.shields.io/badge/Stitching-E91E63?style=for-the-badge&logo=sewing&logoColor=white)
+![Singing](https://img.shields.io/badge/Singing-FFC0CB?style=for-the-badge&logo=music&logoColor=black)
+![Dancing](https://img.shields.io/badge/Dancing-FF69B4?style=for-the-badge&logo=dance&logoColor=black)
+![Playing Carrom](https://img.shields.io/badge/Playing%20Carrom-F44336?style=for-the-badge&logo=board-games&logoColor=white)
 
 ---
 
