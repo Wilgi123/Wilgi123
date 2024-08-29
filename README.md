@@ -64,7 +64,7 @@
 
 ## 📈 GitHub Activity Graph
 
-![Wilgimol's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wilgi123&theme=radical&hide_border=true)
+![Wilgimol's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Wilgi123&theme=react-dark)
 
 ---
 
