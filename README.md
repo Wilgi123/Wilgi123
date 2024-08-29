@@ -3,7 +3,6 @@
 **Web Developer | Crafting Secure, Data-Driven Web Solutions | Enthusiast in Cybersecurity, AI, and Advanced Analytics**
 
 ---
-## 📊 GitHub Stats
 
 ![Wilgimol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wilgi123&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilgi123&layout=compact&theme=radical&hide_border=true)
