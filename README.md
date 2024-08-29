@@ -129,6 +129,8 @@
 ## 🎯 Areas of Interest
 
 ![Web Development](https://img.shields.io/badge/Web%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF5722?style=for-the-badge&logo=ai&logoColor=white)
 ![Video Editing](https://img.shields.io/badge/Video%20Editing-007ACC?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![Badminton](https://img.shields.io/badge/Badminton-009688?style=for-the-badge&logo=sports&logoColor=white)
 ![Stitching](https://img.shields.io/badge/Stitching-E91E63?style=for-the-badge&logo=sewing&logoColor=white)
