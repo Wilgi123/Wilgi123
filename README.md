@@ -73,8 +73,6 @@
   Created a flower shop management system for inventory and order processing using **PHP** and **MySQL** (January 2023 - April 2023).
 
 ---
-
----
 ## 💻 Technical Skills
 
 ### Programming Languages
