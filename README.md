@@ -74,13 +74,6 @@
 
 ---
 
-
-## 📊 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Wilgi123&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-
-
 ---
 ## 💻 Technical Skills
 
