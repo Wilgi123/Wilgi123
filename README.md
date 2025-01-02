@@ -32,9 +32,6 @@
 - **Internship & Job Preparation** at **Internshala Training**  
   **Duration:** February 2023 - March 2023
 
-- **Web Development** at **Internshala Training**  
-  **Duration:** December 2021 - January 2022
-
 
 ---
 
@@ -46,6 +43,7 @@
 - **Introduction to Cloud Computing** | NPTEL SWAYAM, IIT Kharagpur (Jul 2023 - Oct 2023)
 - **Python and Django Full Stack Web Development Bootcamp** | Udemy (August 2022)
 - **Introduction to Cloud** | IBM Developer Skills Network (September 2021)
+- **Web Development** | INTERNSHALA TRAININGS (06 Dec 2021 – 22 Jan 2022)
 
 ---
 
