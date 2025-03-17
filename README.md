@@ -16,7 +16,7 @@
 |-----------------|---------------------------------------------------|-----------------|--------------------------|
 | **Integrated MCA**  | **Amal Jyothi College of Engineering, Kottayam** | **CGPA:** 8.03 | **Expected Graduation:** May 2025 |
 | **Higher Secondary Education** | **Naduvil Higher Secondary School, Naduvil** | **CGPA:** 9.58 | 2018 - 2020 |
-| **Secondary Education** | **Holy Cross Public School, Kudiyanmala** | **CGPA:** 9.136 | 2006 - 2018 |
+| **Secondary Education** | **Holy Cross Public School, Kudiyanmala** | **CGPA:** 9.136 | 2017 - 2018 |
 
 
 ---
