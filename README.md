@@ -1,6 +1,6 @@
 # Hi, I'm Wilgimol Thomas! 👋
 
-**Web Developer | Crafting Secure, Data-Driven Web Solutions | Enthusiast in Cybersecurity, AI, and Advanced Analytics**
+**Web Developer | Cybersecurity & AI Enthusiast | Cloud Technology Advocate**
 
 ---
 
@@ -140,6 +140,7 @@
 ![Singing](https://img.shields.io/badge/Singing-FFC0CB?style=for-the-badge&logo=music&logoColor=black)
 ![Dancing](https://img.shields.io/badge/Dancing-FF69B4?style=for-the-badge&logo=dance&logoColor=black)
 ![Playing Carrom](https://img.shields.io/badge/Playing%20Carrom-F44336?style=for-the-badge&logo=board-games&logoColor=white)
+![Karate](https://img.shields.io/badge/Karate-795548?style=for-the-badge&logo=martial-arts&logoColor=white)
 
 ---
 
