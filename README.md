@@ -1,6 +1,6 @@
 # Hi, I'm Wilgimol Thomas! 👋
 
-**Web Developer | Cybersecurity & AI Enthusiast | Cloud Technology Advocate**
+**Full Stack Web Developer | Virtualization & Cloud Computing Enthusiast | Exploring AI Technologies**
 
 ---
 
