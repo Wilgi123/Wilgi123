@@ -4,12 +4,6 @@
 
 ---
 
-![Wilgimol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wilgi123&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilgi123&layout=compact&theme=radical&hide_border=true)
-
-
----
-
 ## 🎓 Education
 
 | Education Level | Institution                                       | CGPA/Percentage | Year/Expected Graduation |
